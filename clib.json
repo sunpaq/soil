@@ -19,5 +19,7 @@
 
    "configure",
    "Makefile.in"
-  ]
+  ],
+  "install": "./configure && make && make install",
+  "uninstall": "make uninstall"
 }
