@@ -4,7 +4,6 @@
   "repo": "littlstar/soil",
   "description": "Simple OpenGL Image Library",
   "keywords": ["soil", "opengl", "gl", "image"],
-  "configure": "configure",
   "src": [
    "include/SOIL/SOIL.h",
    "include/SOIL/image_dxt.h",
